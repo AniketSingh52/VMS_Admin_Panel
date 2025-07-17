@@ -59,6 +59,16 @@ To provide a secure and efficient backend system for managing all volunteer-rela
 | ![Reviews](images/reviews.png) | ![Chat](images/chat.png) | ![Login](images/login.png) |
 
 ---
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AniketSingh52/VMS_Admin_Panel.git
+2. Import the MySQL database from the /database folder.
+3. Update your connect.php file with your database credentials.
+4. Deploy using a local server (XAMPP/LAMP) or your hosting provider.
+
+---
 ## 📜 License
 
 This project is open-source and free to use.
