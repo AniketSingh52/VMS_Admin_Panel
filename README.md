@@ -48,15 +48,43 @@ To provide a secure and efficient backend system for managing all volunteer-rela
 
 ## 🖼️ Screenshots
 
-> (You can add actual image links or file references here once uploaded to GitHub or a server.)
+> (Image Previews added in PreviewImage2 Folder.)
 
-| Dashboard Overview | Volunteer Management | Event Management |
-|--------------------|----------------------|------------------|
-| ![Dashboard](images/dashboard.png) | ![Volunteers](images/volunteer_list.png) | ![Events](images/event_manage.png) |
+| Login Page |
+|--------------------|
+| ![Dashboard](PreviewImage2/login_page.png) |
 
-| Review Section | Chat System | Login Page |
-|----------------|-------------|------------|
-| ![Reviews](images/reviews.png) | ![Chat](images/chat.png) | ![Login](images/login.png) |
+
+| Dashboard Overview |
+|--------------------|
+| ![Dashboard](PreviewImage2/dashboard.png) |
+
+
+| User Management Dashboard |
+|--------------------|
+| ![Dashboard](PreviewImage2/user_management1.png) |
+| ![Dashboard](PreviewImage2/user_management2.png) |
+
+| Events Management Dashboard |
+|--------------------|
+| ![Dashboard](PreviewImage2/event_management1.png) |
+| ![Dashboard](PreviewImage2/event_management2.png) |
+
+| Post Management Dashboard |
+|--------------------|
+| ![Dashboard](PreviewImage2/post_management1.png) |
+| ![Dashboard](PreviewImage2/post_management2.png) |
+
+| Add Admin Page |
+|--------------------|
+| ![Dashboard](PreviewImage2/add_admin.png) |
+
+| Admin Management Dashboard |
+|--------------------|
+| ![Dashboard](PreviewImage2/Admin_management.png) |
+
+| [🔗 Many More](https://volunteermanagement.42web.io/main/pages/admin/login_in2.php) |
+|--------------------|
 
 ---
 ## 🚀 Getting Started
